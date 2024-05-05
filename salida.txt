@@ -1,0 +1,110 @@
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              392M  1.1M  391M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv   14G  7.1G  6.3G  54% /
+tmpfs                              2.0G     0  2.0G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+/dev/sda2                          2.0G  251M  1.6G  14% /boot
+tmpfs                              392M  4.0K  392M   1% /run/user/1000
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              392M  1.1M  391M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv   14G  7.1G  6.3G  54% /
+tmpfs                              2.0G     0  2.0G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+/dev/sda2                          2.0G  251M  1.6G  14% /boot
+tmpfs                              392M  4.0K  392M   1% /run/user/1000
+NAME                      MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sda                         8:0    0 30.7G  0 disk 
+├─sda1                      8:1    0    1M  0 part 
+├─sda2                      8:2    0    2G  0 part /boot
+└─sda3                      8:3    0 28.7G  0 part 
+  └─ubuntu--vg-ubuntu--lv 253:0    0 14.3G  0 lvm  /
+sdb                         8:16   0    8G  0 disk 
+sr0                        11:0    1 1024M  0 rom  
+Ping: 12.861 ms
+Download: 119.87 Mbit/s
+Upload: 109.11 Mbit/s
+https://www.youtube.com
+https://www.facebook.com
+https://www.github.com
+https://www.upload.comFilesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              392M  1.1M  391M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv   14G  7.1G  6.2G  54% /
+tmpfs                              2.0G     0  2.0G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+/dev/sda2                          2.0G  251M  1.6G  14% /boot
+tmpfs                              392M  4.0K  392M   1% /run/user/1000
+NAME                      MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sda                         8:0    0 30.7G  0 disk 
+├─sda1                      8:1    0    1M  0 part 
+├─sda2                      8:2    0    2G  0 part /boot
+└─sda3                      8:3    0 28.7G  0 part 
+  └─ubuntu--vg-ubuntu--lv 253:0    0 14.3G  0 lvm  /
+sdb                         8:16   0    8G  0 disk 
+sr0                        11:0    1 1024M  0 rom  
+Ping: 15.657 ms
+Download: 108.79 Mbit/s
+Upload: 74.06 Mbit/s
+https://www.youtube.com
+https://www.facebook.com
+https://www.github.com
+https://www.upload.comFilesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              392M  1.1M  391M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv   14G  7.2G  6.1G  55% /
+tmpfs                              2.0G     0  2.0G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+/dev/sda2                          2.0G  251M  1.6G  14% /boot
+tmpfs                              392M  4.0K  392M   1% /run/user/1000
+NAME                      MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sda                         8:0    0 30.7G  0 disk 
+├─sda1                      8:1    0    1M  0 part 
+├─sda2                      8:2    0    2G  0 part /boot
+└─sda3                      8:3    0 28.7G  0 part 
+  └─ubuntu--vg-ubuntu--lv 253:0    0 14.3G  0 lvm  /
+sdb                         8:16   0    8G  0 disk 
+sr0                        11:0    1 1024M  0 rom  
+Ping: 16.258 ms
+Download: 109.94 Mbit/s
+Upload: 68.71 Mbit/s
+https://www.youtube.com
+https://www.facebook.com
+https://www.github.com
+https://www.upload.comFilesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              392M  1.1M  391M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv   14G  7.3G  6.1G  55% /
+tmpfs                              2.0G     0  2.0G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+/dev/sda2                          2.0G  251M  1.6G  14% /boot
+tmpfs                              392M  4.0K  392M   1% /run/user/1000
+NAME                      MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sda                         8:0    0 30.7G  0 disk 
+├─sda1                      8:1    0    1M  0 part 
+├─sda2                      8:2    0    2G  0 part /boot
+└─sda3                      8:3    0 28.7G  0 part 
+  └─ubuntu--vg-ubuntu--lv 253:0    0 14.3G  0 lvm  /
+sdb                         8:16   0    8G  0 disk 
+sr0                        11:0    1 1024M  0 rom  
+https://www.youtube.com
+https://www.facebook.com
+https://www.github.com
+https://www.upload.comFilesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              392M  1.1M  391M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv   14G  7.3G  6.1G  55% /
+tmpfs                              2.0G     0  2.0G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+/dev/sda2                          2.0G  251M  1.6G  14% /boot
+tmpfs                              392M  4.0K  392M   1% /run/user/1000
+NAME                      MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sda                         8:0    0 30.7G  0 disk 
+├─sda1                      8:1    0    1M  0 part 
+├─sda2                      8:2    0    2G  0 part /boot
+└─sda3                      8:3    0 28.7G  0 part 
+  └─ubuntu--vg-ubuntu--lv 253:0    0 14.3G  0 lvm  /
+sdb                         8:16   0    8G  0 disk 
+sr0                        11:0    1 1024M  0 rom  
+Ping: 12.508 ms
+Download: 119.89 Mbit/s
+Upload: 98.68 Mbit/s
+https://www.youtube.com
+https://www.facebook.com
+https://www.github.com
+https://www.upload.com
