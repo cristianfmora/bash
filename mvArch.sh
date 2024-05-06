@@ -19,9 +19,10 @@ for archivo in  $(ls $1); do
     # obtener la extensión
     extension="${archivo##*.}"
      # crear carpeta de la extensión
-    [ -d $extension ] || mkdir $extension
+    [ -d $extension ] || mkdir $1/$extension
     # mover carpetas creadas a la carpeta principal
-    mv $extension $1
+    wait
+    mv $1/$archivo $1/$extension
 done
     # validar si la extensión existe
     #if [[ ! "${list[@]}" =~ "$extension" ]]; then
