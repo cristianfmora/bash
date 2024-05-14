@@ -30,3 +30,35 @@ Mounted:/
 Size:2.0G
 Use:14%
 Mounted:/boot
+Información del pc
+
+distribucion:22.04.3 LTS (Jammy Jellyfish)
+IP:192.168.1.18
+MAC:fe80::a00:27ff:fe55:83fa
+host:devops2
+user:dev
+up:2:09
+
+Componentes internos
+
+CPU:Intel(R)Core(TM)i5-5200UCPU@2.20GHz
+
+RAM
+total:3.8Gi
+available:3.1Gi
+
+Swap
+total:2.9Gi
+available:2.9Gi
+
+Particiones
+
+/dev/mapper/ubuntu--vg-ubuntu--lv
+Size:14G
+Use:59%
+Mounted:/
+
+/dev/sda2
+Size:2.0G
+Use:14%
+Mounted:/boot
